@@ -9,7 +9,7 @@ public class EMIcalculator {
 		         
 		        double principal, rate, time, emi;
 		  
-		        System.out.print("Enter principal: ");
+		        System.out.print("Enter Principal Loan Amount: ");
 		        principal = a.nextFloat();
 		      
 		        System.out.print("Enter Interest rate: ");
